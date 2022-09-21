@@ -50,7 +50,8 @@ Programar en cualquier lenguaje de programación que cumpla con el método pedid
 
 Para ejecutar la *API MUTANTES* se tiene dos opciones:
 
-1.  Descargar el repositorio y crear una instancia local con el siguiente comando en una terminal (debe de estar apuntando al directorio raíz del proyecto para que funcione).
+1. Crear una instancia local con el siguiente comando en una terminal (debe de estar apuntando al directorio raíz del proyecto para que funcione). **¡¡¡OJO!!! ESTA PRIMERA OPCIÓN NO FUNCIONA YA QUE POR TEMAS DE SEGURIDAD NO PUEDO PONER LAS CREDENCIALES DE CONEXION A LA BD**
+
 > Windows
 
 ```
